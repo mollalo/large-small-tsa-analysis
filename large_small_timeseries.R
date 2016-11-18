@@ -16,3 +16,4 @@ get_size <- function(weight){
   return(size_class)
 }
 surveys <- read.csv("./data/surveys.csv")
+
